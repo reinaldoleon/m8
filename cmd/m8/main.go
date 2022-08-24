@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"m8"
 	"time"
+
+	"github.com/reinaldoleon/m8"
 )
 
 func main() {
